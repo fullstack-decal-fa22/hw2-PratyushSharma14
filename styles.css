@@ -27,6 +27,16 @@ h2 {
   margin-bottom: 5rem;
 }
 
+.label{
+  font-size: 20px;
+  color: rgb(20, 189, 119);
+}
+
+.label:hover{
+  font-size: 40px;
+  color: rgb(209, 233, 122);
+}
+
 .twovert {
   height: 50%;
 }
